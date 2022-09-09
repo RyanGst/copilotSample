@@ -1,0 +1,21 @@
+1. Fazer um algoritmo que leia um número inteiro e escreva o seu antecessor e o seu sucessor.
+
+2. Ler uma medida em polegadas e imprimir a equivalente em centímetros, sabendo que 2.54 cm equivale a 1 polegada.
+
+3. Faça um algoritmo que receba o salário-base de um funcionário, calcule e mostre o salário a receber, sabendo-se que esse funcionário tem gratificação de 5% sobre o salário-base e paga imposto de 7% sobre o total.
+
+4. Faça um algoritmo que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre: a) a idade atual dessa pessoa. b) quantos anos ela terá em 2018.
+
+5. Faça um algoritmo para ler dois números inteiros e informar se estes são iguais ou diferentes.
+
+6. Uma loja fornece 10% de desconto para funcionários e 5% de desconto para clientes vips. Faça um programa que calcule o valor total a ser pago por uma pessoa. O programa deverá ler o valor total da compra efetuada e um código que identifique se o comprador é um cliente comum (1), funcionário (2) ou vip (3).
+
+7. Escrever um programa para ler um número inteiro e informar se ele é divisível por 5.
+
+8. A prefeitura do Rio de Janeiro abriu uma linha de crédito para os funcionários estatutários. O valor máximo da prestação não poderá ultrapassar 30% do salário bruto. Fazer um algoritmo que permita entrar com o salário bruto e o valor da prestação e informar se o empréstimo pode ou não ser concedido.
+
+9. Faça um programa que o usuário informe o salário recebido e o total gasto. Deverá ser exibido na tela “Gastos dentro do orçamento” caso o valor gasto não ultrapasse o valor do salário e “Orçamento estourado” se o valor gasto ultrapassar o valor do salário.
+
+10. Faça o algoritmo que leia o valor de uma conta de luz (CL) e, caso o valor seja maior que R$ 150,00, apresente a mensagem: “Você está gastando muito”. Caso contrário exiba a mensagem: “Seu gasto foi normal”.7. Elabore um algoritmo que dada a idade de um nadador classifica-o em uma das seguintes categorias: infantil A = 5 - 7 anos infantil B = 8-10 anos juvenil A = 11-13 anos juvenil B = 14-17 anos adulto = maiores de 18 anos
+
+11. O cardápio de uma lanchonete é o seguinte: Escrever um algoritmo que leia o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um item.
