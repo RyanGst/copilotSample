@@ -37,9 +37,12 @@ def writeFiles(filename):
 
             if len(filename) == 0:
                 return
-            filename.split('.').pop(0)
+
+            title = translated.split('.')
+            title.pop(0)
+
             with open('./generated/{}.py'.format(filename), 'w') as f2:
-                f2.write('# {}'.format(translated))
+                f2.write('# {}'.format(''.join(title)))
                 f2.close()
             i += 1
 

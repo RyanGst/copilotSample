@@ -1,0 +1,1 @@
+#  Enter 15 numbers and print how many numbers greater than 30 have been entered

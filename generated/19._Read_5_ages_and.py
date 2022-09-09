@@ -1,0 +1,1 @@
+#  Read 5 ages and average the ages (use a variable for age)

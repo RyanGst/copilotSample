@@ -1,0 +1,1 @@
+#  Read a 6-element vector A containing the Mega Sena template Next, read a 10-element vector B containing a bet Write down how many points the bettor scored, and whether he scored the sena (6 hits), the corner (5 hits) or the quad (4 hits)

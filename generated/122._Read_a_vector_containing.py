@@ -1,0 +1,1 @@
+#  Read a vector containing the grades of a class of 10 students Calculate the class average and count how many students scored above this calculated average Write the class average and the counting result

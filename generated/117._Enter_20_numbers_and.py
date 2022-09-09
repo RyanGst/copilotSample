@@ -1,0 +1,1 @@
+#  Enter 20 numbers and print the sum of the positives and the total of the negatives

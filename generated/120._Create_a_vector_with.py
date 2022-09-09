@@ -1,0 +1,1 @@
+#  Create a vector with 5 integer positions and display the product of all values

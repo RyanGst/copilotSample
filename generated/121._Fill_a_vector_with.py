@@ -1,0 +1,1 @@
+#  Fill a vector with 10 real values ​​and display all values ​​above 100
