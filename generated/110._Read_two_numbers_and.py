@@ -1,1 +1,0 @@
-#  Read two numbers and print all the odd numbers between them Assume the second is greater than the first
